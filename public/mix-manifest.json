@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/c1.bundle.js": "/js/c1.bundle.js",
+    "/js/c2.bundle.js": "/js/c2.bundle.js",
+    "/js/example-component.bundle.js": "/js/example-component.bundle.js",
+    "/js/vendors~c1.bundle.js": "/js/vendors~c1.bundle.js",
+    "/js/app.bundle.js": "/js/app.bundle.js"
+}
